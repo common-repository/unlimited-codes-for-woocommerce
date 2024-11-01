@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2017-09-02 16:54+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# @ su
+msgid "Woo Codes"
+msgstr "Códigos WooCommerce"
+
+# @ su
+msgid "Woo Code"
+msgstr "Código WooCommerce"
+
+# @ su
+msgid "Add Woo Code"
+msgstr "Añadir Código WooCommerce"
+
+# @ su
+msgid "Add new Woo code"
+msgstr "Añadir nuevo Código WooCommerce"
+
+# @ su
+msgid "Edit Woo Code"
+msgstr "Editar Código WooCommerce"
+
+# @ su
+msgid "New Woo Code"
+msgstr "Nuevo Código WooCommerce"
+
+# @ su
+msgid "Show Woo Code"
+msgstr "Ver Código WooCommerce"
+
+# @ su
+msgid "Search Woo Codes"
+msgstr "Buscar Códigos WooCommerce"
+
+# @ su
+msgid "No Woo Codes found"
+msgstr "No se encontraron Códigos WooCommerce"
+
+# @ su
+msgid "No Woo Codes found in trash"
+msgstr "No se encontraron Códigos WooCommerce en la papelera"
+
+# @ su
+msgid "Woo Code options"
+msgstr "Código WooCommerce"
+
+# @ su
+msgid "Load in:"
+msgstr "Cargar en:"
+
+# @ su
+msgid "All"
+msgstr "Todos"
+
+# @ su
+msgid "Order:"
+msgstr "Orden:"
+
+# @ su
+msgid "Shop/Archive/Product category"
+msgstr "Tienda/Archivo/Categoría del producto"
+
+# @ su
+msgid "Product"
+msgstr "Producto"
+
+# @ su
+msgid "Cart"
+msgstr "Carrito"
+
+# @ su
+msgid "Checkout"
+msgstr "Finalizar compra"
+
+# @ su
+msgid "My Account"
+msgstr "Mi cuenta"
+
+# @ su
+msgid "Load in this categories:"
+msgstr "Cargar en estas categorias:"
+
+# @ su
+msgid "Load in this products:"
+msgstr "Cargar en estos productos:"
